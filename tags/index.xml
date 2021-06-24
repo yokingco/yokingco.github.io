@@ -5,25 +5,6 @@
     <link>https://yokingco.github.io/tags/</link>
     <description>Recent content in Tags on Amanda Yokingco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 09 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://yokingco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>another tag</title>
-      <link>https://yokingco.github.io/tags/another-tag/</link>
-      <pubDate>Wed, 09 Jun 2021 09:00:00 +0000</pubDate>
-      
-      <guid>https://yokingco.github.io/tags/another-tag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>one tag</title>
-      <link>https://yokingco.github.io/tags/one-tag/</link>
-      <pubDate>Wed, 09 Jun 2021 09:00:00 +0000</pubDate>
-      
-      <guid>https://yokingco.github.io/tags/one-tag/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://yokingco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
