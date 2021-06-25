@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Amanda Yokingco</title>
-    <link>https://yokingco.github.io/blog/</link>
+    <link>https://yokingco.github.io/home/blog/</link>
     <description>Recent content in Blog on Amanda Yokingco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jun 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://yokingco.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://yokingco.github.io/home/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science Projects</title>
-      <link>https://yokingco.github.io/blog/data-science-projects/</link>
+      <link>https://yokingco.github.io/home/blog/data-science-projects/</link>
       <pubDate>Mon, 14 Jun 2021 01:00:00 +0000</pubDate>
       
-      <guid>https://yokingco.github.io/blog/data-science-projects/</guid>
+      <guid>https://yokingco.github.io/home/blog/data-science-projects/</guid>
       <description>This page is under construction. Check back soon for more updates on my current and previous projects.  STAC53H3: Applied Data Collection Project Title: The Association Between Systolic Blood Pressure and Various Demographic, Lifestyle, and Physiological Characteristics of the American Public: An Applied Statistical Analysis
 Runners on a track. Photo by Steven Lelham.
  Read the report here.
@@ -21,10 +21,10 @@ This was a final project for my Applied Data Collection course. The objective of
     
     <item>
       <title>Facilitated Study Group Materials</title>
-      <link>https://yokingco.github.io/blog/fsg-materials/</link>
+      <link>https://yokingco.github.io/home/blog/fsg-materials/</link>
       <pubDate>Wed, 09 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://yokingco.github.io/blog/fsg-materials/</guid>
+      <guid>https://yokingco.github.io/home/blog/fsg-materials/</guid>
       <description>Person studying alone. Photo by Philippe Bout.
  Since May 2019, I have served as a Facilitated Study Group (FSG) leader, and more recently a mentor, for Introductory Statistics and Organic Chemistry II courses.
 As a facilitator, I was responsible for developing learning materials and facilitating weekly in-person or virtual collaborative and interactive sessions for 20-50 students. As a mentor, I supported new and returning facilitators through weekly check-ins, constructive feedback, performance observations, and coordination of monthly meetings.</description>
@@ -32,10 +32,10 @@ As a facilitator, I was responsible for developing learning materials and facili
     
     <item>
       <title>Film Photography</title>
-      <link>https://yokingco.github.io/blog/film-photography/</link>
+      <link>https://yokingco.github.io/home/blog/film-photography/</link>
       <pubDate>Tue, 01 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://yokingco.github.io/blog/film-photography/</guid>
+      <guid>https://yokingco.github.io/home/blog/film-photography/</guid>
       <description>In 2016, I picked up a film camera. Over the years, I have accumulated lots of memories over film. I wanted a place for some of them to live. Enjoy!
 2018 Winter Stations, Toronto.
  Cebu City, Philippines.
