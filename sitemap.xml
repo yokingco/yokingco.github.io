@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yokingco.github.io/home/</loc>
+    <loc>https://yokingco.github.io/</loc>
     <lastmod>2021-06-14T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yokingco.github.io/home/blog/</loc>
+    <loc>https://yokingco.github.io/blog/</loc>
     <lastmod>2021-06-14T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yokingco.github.io/home/blog/data-science-projects/</loc>
+    <loc>https://yokingco.github.io/blog/data-science-projects/</loc>
     <lastmod>2021-06-14T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yokingco.github.io/home/blog/fsg-materials/</loc>
+    <loc>https://yokingco.github.io/blog/fsg-materials/</loc>
     <lastmod>2021-06-09T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yokingco.github.io/home/home/</loc>
+    <loc>https://yokingco.github.io/home/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yokingco.github.io/home/blog/film-photography/</loc>
+    <loc>https://yokingco.github.io/blog/film-photography/</loc>
     <lastmod>2021-06-01T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yokingco.github.io/home/categories/</loc>
+    <loc>https://yokingco.github.io/categories/</loc>
   </url><url>
-    <loc>https://yokingco.github.io/home/tags/</loc>
+    <loc>https://yokingco.github.io/tags/</loc>
   </url>
 </urlset>

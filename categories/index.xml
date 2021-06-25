@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Amanda Yokingco</title>
-    <link>https://yokingco.github.io/home/categories/</link>
+    <link>https://yokingco.github.io/categories/</link>
     <description>Recent content in Categories on Amanda Yokingco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yokingco.github.io/home/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://yokingco.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
